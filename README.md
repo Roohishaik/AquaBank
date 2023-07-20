@@ -4,6 +4,8 @@ I used Watson Assistant and Node.js to build a virtual banking assisting chatbo
 
 After following this method, the reader will know how to:
 
-1.Use  Watson Assistant and Node.js to build a chatbot that communicates over a web UI.
-2.To find answers in FAQ documents, use passage retrieval and Watson Discovery.
-3.Use Watson Natural Language Understanding, locate entities
+1. Use  Watson Assistant and Node.js to build a chatbot that communicates over a web UI.
+
+2. To find answers in FAQ documents, use passage retrieval and Watson Discovery.
+
+3. Use Watson Natural Language Understanding, locate entities
