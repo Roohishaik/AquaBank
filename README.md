@@ -8,11 +8,11 @@ After following this method, the reader will know how to:
 1. Use  Watson Assistant and Node.js to build a chatbot that communicates over a web UI.
 
 2. To find answers in FAQ documents, use passage retrieval and Watson Discovery.
-![Aquabankbot](https://github.com/Roohishaik/AquaBank/assets/94975857/a4977631-bf75-43dd-a9c0-7cb063a2149a)
 
 3. Use Watson Natural Language Understanding, locate entities
 
-   
+   ![Aquabankbot](https://github.com/Roohishaik/AquaBank/assets/94975857/a4977631-bf75-43dd-a9c0-7cb063a2149a)
+
 
 ## Included components
 
@@ -179,8 +179,6 @@ The web app presents a customer service chatbot. Interact with the chatbot by pr
 
 https://github.com/Roohishaik/AquaBank/assets/94975857/a8b1ba16-d2a9-4e4c-8eed-678bcde7c4cd
 
-you can access it by clicking on this aswell 
-https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fau-syd.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-099084f1-5bc0-4dcc-ad10-83c43137f144%3A%3Adc8c533d-2c4b-445a-b44a-efa648c3f497&integrationID=a6d3f10f-5147-4d40-85da-d5d0885128a5&region=au-syd&serviceInstanceID=099084f1-5bc0-4dcc-ad10-83c43137f144
 
 
 
